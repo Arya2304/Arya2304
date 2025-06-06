@@ -10,6 +10,6 @@
 </p>
 
 <p align="center">
-  Business Analyst | Coder | Tech Enthusiast
+  Data Analyst | Full Stack | Tech Enthusiast
 </p>
 
